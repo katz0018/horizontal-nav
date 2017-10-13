@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6cf;
+  font-family: 'Bevan',serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h2 {
+  display: block;
+  position: fixed;
+  padding: .6em .5em .75em;
+  text-align: center;
+  background-color: #79756f;
+}
+
+nav a {
+  display: inline-block;
+}
