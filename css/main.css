@@ -15,8 +15,17 @@ h2 {
   padding: .6em .5em .75em;
   text-align: center;
   background-color: #79756f;
+  margin: .3em;
+  border-bottom: 3px solid #595652;
 }
 
 nav a {
   display: inline-block;
+  text-decoration:none;
+  list-style-type: none;
+  border: 3px solid;
+  border-radius: 10px;
+  text-decoration-color: #fff;
+  background color: #713837;
+
 }
