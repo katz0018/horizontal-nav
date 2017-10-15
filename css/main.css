@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: "Bevan", serif;
 }
 
 *, *::before, *::after {
@@ -37,7 +36,7 @@ ul :hover {
 }
 
 h1 {
-  font-family: "Bevan", serif;
+  font-family: "Bevan";
   color: #fff;
   text-align: center;
   background-color: #79756f;
@@ -54,5 +53,4 @@ header {
 
 body {
   margin: 0;
-
 }
